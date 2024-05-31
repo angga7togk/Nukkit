@@ -319,4 +319,7 @@ public interface BlockID {
 
     int OBSERVER = 251;
     int STRUCTURE_BLOCK = 252;
+
+//    New
+    int BARRIER = 166;
 }
